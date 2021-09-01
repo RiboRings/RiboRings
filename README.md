@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RiboRings
-- 👀 I’m interested in Bioengineering, Programming, languages and Calisthenics.
+- 👀 I’m interested in Bioinformatics, Programming, languages and Calisthenics.
 - 🌱 I’m currently learning Bioinformatics on Python and R
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Julia packages and Bioinformatics analysis
 - 📫 How to reach me: https://www.linkedin.com/in/giulio-benedetti-00a5621b2/
 
 <!---

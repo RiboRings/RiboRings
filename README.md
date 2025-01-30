@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @RiboRings
 - 👀 I’m interested in Data Science, Microbiome Analysis, Machine Learning and Neuroscience.
-- 🌱 I’m currently studying Brain and Data Science at the [NeuroData Graduate School](https://www.neurodata-master.org/programme).
+- 🌱 I’m currently studying Brain and Data Science at the [NeuroData Graduate School](https://www.neurodata-master.org/).
 - 💞️ I’m looking to collaborate on R and Julia packages for bioinformatic analysis.
 - 📫 How to reach me: send me an email at giulio.benedetti@utu.fi.
 

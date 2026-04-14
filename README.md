@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @RiboRings
 - 👀 I’m interested in Data Science, Microbiome Analysis, Machine Learning and Neuroscience.
-- 🌱 I’m currently studying Brain and Data Science at the [NeuroData Graduate School](https://www.neurodata-master.org/).
-- 💞️ I’m looking to collaborate on R and Julia packages for bioinformatic analysis.
+- 🌱 I’m currently doing a PhD on ML for environmental microbiome at the [Turku Data Science Group](https://datascience.utu.fi/).
+- 💞️ I’m looking to collaborate on R, Python and Julia packages for bioinformatic analysis.
 - 📫 How to reach me: send me an email at giulio.benedetti@utu.fi.
 
 ## Activity
@@ -23,9 +23,10 @@
 | [_miaDash_](http://bioconductor.org/packages/devel/bioc/html/miaDash.html) | Package | Maintainer | Bioconductor | [GitHub](https://github.com/microbiome/miaDash) | [![](https://bioconductor.org/shields/build/release/bioc/miaDash.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/miaDash) | [![](https://bioconductor.org/shields/build/devel/bioc/miaDash.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/miaDash) |
 | [_mia_](http://bioconductor.org/packages/release/bioc/html/mia.html) | Package | Contributor | Bioconductor | [GitHub](https://github.com/microbiome/mia) | [![](https://bioconductor.org/shields/build/release/bioc/mia.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/mia) | [![](https://bioconductor.org/shields/build/devel/bioc/mia.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/mia) |
 | [_miaViz_](http://bioconductor.org/packages/release/bioc/html/miaViz.html) | Package | Contributor | Bioconductor | [GitHub](https://github.com/microbiome/miaViz) | [![](https://bioconductor.org/shields/build/release/bioc/miaViz.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/miaViz) | [![](https://bioconductor.org/shields/build/devel/bioc/miaViz.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/miaViz) |
+| [_anansi_](http://bioconductor.org/packages/release/bioc/html/anansi.html) | Package | Contributor | Bioconductor | [GitHub](https://github.com/thomazbastiaanssen/anansi) | [![](https://bioconductor.org/shields/build/release/bioc/anansi.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/anansi) | [![](https://bioconductor.org/shields/build/devel/bioc/anansi.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/anansi) |
 | [_OMA_](https://microbiome.github.io/OMA/docs/devel/) | Book | Contributor | GitHub | [GitHub](https://github.com/microbiome/OMA) | | [![deployment](https://img.shields.io/github/actions/workflow/status/js2264/OMA/pages/pages-build-deployment)](https://github.com/js2264/OMA/actions/workflows/pages/pages-build-deployment) |
-| [_FdeSolver_](https://juliapackages.com/p/fdesolver) | Package | Contributor | Julia General | [GitHub](https://github.com/JuliaTurkuDataScience/FdeSolver.jl) | [![CI](https://github.com/JuliaTurkuDataScience/FdeSolver.jl/actions/workflows/CI.yml/badge.svg?branch=main&label=Build)](https://github.com/JuliaTurkuDataScience/FdeSolver.jl/actions/workflows/CI.yml) | [![CI](https://github.com/JuliaTurkuDataScience/FdeSolver.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/JuliaTurkuDataScience/FdeSolver.jl/actions/workflows/CI.yml) |
 | [_MicrobiomeAnalysis_](https://juliapackages.com/p/microbiomeanalysis) | Package | Maintainer | Julia General | [GitHub](https://github.com/JuliaTurkuDataScience/MicrobiomeAnalysis.jl) | [![CI](https://github.com/JuliaTurkuDataScience/MicrobiomeAnalysis.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/JuliaTurkuDataScience/MicrobiomeAnalysis.jl/actions/workflows/CI.yml) | [![CI](https://github.com/JuliaTurkuDataScience/MicrobiomeAnalysis.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/JuliaTurkuDataScience/MicrobiomeAnalysis.jl/actions/workflows/CI.yml) |
+| [_FdeSolver_](https://juliapackages.com/p/fdesolver) | Package | Contributor | Julia General | [GitHub](https://github.com/JuliaTurkuDataScience/FdeSolver.jl) | [![CI](https://github.com/JuliaTurkuDataScience/FdeSolver.jl/actions/workflows/CI.yml/badge.svg?branch=main&label=Build)](https://github.com/JuliaTurkuDataScience/FdeSolver.jl/actions/workflows/CI.yml) | [![CI](https://github.com/JuliaTurkuDataScience/FdeSolver.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/JuliaTurkuDataScience/FdeSolver.jl/actions/workflows/CI.yml) |
 
 <!---
 RiboRings/RiboRings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

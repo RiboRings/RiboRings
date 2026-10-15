@@ -8,7 +8,7 @@
 
 ## Activity
 
-![RiboRings' GitHub stats](https://github-stats-extended.vercel.app/api?username=RiboRings&show_icons=true&theme_light=light_github&theme_dark=dark_github&owner=RiboRings,microbiome,Minotau-R,JuliaTurkuDataScience,enviPath,The-Okun-Lab)
+![RiboRings' GitHub stats](https://github-stats-extended.vercel.app/api?username=RiboRings&show_icons=true&theme_light=light_github&theme_dark=dark_github&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show=all_time_contribs,reviews&hide=contribs)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RiboRings&layout=donut&theme_light=light_github&theme_dark=dark_github&hide=html,tex,jupyter%20notebook)
 
 ## Contributions
